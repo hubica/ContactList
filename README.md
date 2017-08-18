@@ -3,4 +3,4 @@ MEAN stack project
 
 Run npm install,
 Run Mongod,
-Run node app
+Run node server
